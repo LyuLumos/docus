@@ -1,15 +1,10 @@
 export default defineAppConfig({
   docus: {
-    title: 'Docus',
+    title: 'ChatGPT Demo Series',
     description: 'Documentation for ChatGPT Demo Series.',
     image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
     socials: {
       github: 'lyulumos/docus',
-      nuxt: {
-        label: 'Nuxt',
-        icon: 'simple-icons:nuxtdotjs',
-        href: 'https://nuxt.com'
-      }
     },
     github: {
       dir: '.starters/default/content',
