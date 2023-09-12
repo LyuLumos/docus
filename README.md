@@ -1,6 +1,7 @@
-# Docus Starter
+# Docus
 
-Starter template for [Docus](https://docus.dev).
+A documentation for chatgpt series. Starter template for [Docus](https://docus.dev).
+
 
 ## Clone
 
@@ -51,7 +52,3 @@ You might want to preview the result of your build locally, to do so, run the fo
 ```bash
 yarn preview
 ```
-
----
-
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
