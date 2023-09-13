@@ -1,6 +1,6 @@
 # Docus
 
-A documentation for chatgpt series. Starter template for [Docus](https://docus.dev).
+Documentation for ChatGPT Demo Series. Starter template for [Docus](https://docus.dev).
 
 
 ## Clone

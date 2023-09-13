@@ -7,7 +7,7 @@ export default defineAppConfig({
       github: 'lyulumos/docus',
     },
     github: {
-      dir: '.starters/default/content',
+      dir: 'content',
       branch: 'main',
       repo: 'docus',
       owner: 'lyulumos',
